@@ -10,6 +10,12 @@
 
 ## Lecture
 
+### Housekeeping
+
+- Reminder about solo project proposals
+- Check the submitted box when you turn the proposal in on the platform
+- Make sure you fill out your group project preferences
+
 ### Strings Fundamentals
 
 - Immutable vs Mutable
