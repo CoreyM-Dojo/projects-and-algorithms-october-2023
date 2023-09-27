@@ -4,6 +4,7 @@
 
 ## Objectives
 
+- Projects Overview
 - Review the fundamentals of programming
 
 ## Lecture
@@ -38,9 +39,14 @@
         - Number -> 0
         - Boolean
 
+- Data Structures
+    - Arrays - Lists
+    - Objects - dictionaries
+    
+
 - Operators
-    - arithmetic
-        - +,*,/, **, %
+    - arithmetic - 
+        - +,*,/, **, % 
     - assignment
         =,+=,-=,*=,/=, ++, --, // -> floor division (in python)
     - comparison
