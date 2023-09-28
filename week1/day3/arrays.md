@@ -1,14 +1,12 @@
 # Arrays Refresh
 
 ## Office Hour
-- isPangram
-- find anagrams
+
 
 ## Objectives
 
 - Refresh your memories on arrays
 - learn and understand some built in array functions and how we use them
-- Get familiar with some es6 usage
 
 
 
@@ -58,9 +56,3 @@
 - filter
 - forEach
 
-### Es6
-
-- destructuring
-- for of loops
-
-### AOTD - RIOT Walk

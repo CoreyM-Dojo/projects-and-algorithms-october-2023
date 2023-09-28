@@ -25,6 +25,12 @@
 
 ### String methods
 
+{
+    0: "A", 1: "B", 2: "C", 3: "D"
+}
+
+-> Object.freeze
+
     - toUpperCase
     - toLowerCase
     - indexOf
