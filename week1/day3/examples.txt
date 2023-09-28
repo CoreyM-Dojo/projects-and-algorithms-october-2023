@@ -1,0 +1,9 @@
+array.pop
+
+// Whats actually happening?
+let returnValue = exampleArray[exampleArray.length - 1]
+exampleArray[exampleArray.length - 1] = undefined;
+exampleArray.length--;
+console.log(exampleArray);
+console.log(returnValue);
+
