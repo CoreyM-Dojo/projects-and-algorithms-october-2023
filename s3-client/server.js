@@ -2,7 +2,6 @@ const AWS = require("aws-sdk");
 const AXIOS = require("axios");
 const EXPRESS = require("express");
 const fs = require("fs"); // Give the server access to the file system
-const { request } = require("http");
 const app = new EXPRESS();
 app.engine("html", require("ejs").renderFile);
 app.set("view engine", "ejs");
