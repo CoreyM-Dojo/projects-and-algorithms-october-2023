@@ -23,6 +23,7 @@
 ### OOP
 
 - classes
+    class vs object
 - instances
 - constructor
 - methods
